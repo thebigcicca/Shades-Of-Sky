@@ -6,6 +6,28 @@
 
 ![shades-of-sky preview](./Shades-Of-Sky.png)
 
+## 🎨 Color palette
+
+|      USAGE       |                                HEX CODES                                 |
+| ---------------- | ------------------------------------------------------------------------ |
+| Background       |  `#273552`       |
+| Foreground       |  `#A599E9`       |
+| Hover Background |  `#4D21FC`       |
+| Contrast         |  `#FAD000`       |
+| Contrast Lite    |  `#FFEE80`       |
+| Contrast Lite II |  `#FAEFA5`       |
+| Highlight        |  `#FF7200`       |
+| Comment          |  `#B362FF`       |
+| Constants        |  `#FF628C`       |
+| Keywords         |  `#FF9D00`       |
+| Other            |  `#9EFFFF`       |
+| Strings          |  `#A5FF90`       |
+| Templates        |  `#3AD900`       |
+| Definitions      |  `#FB94FF`       |
+| Invalid          |  `#EC3A37F5` |
+| Diff Added       |  `#00FF009A` |
+| Diff Removed     |  `#FF000D81` |
+
 ## 👏 Acknowledgement
 
 [Shades Of Purple](https://github.com/ahmadawais/shades-of-purple-vscode)
