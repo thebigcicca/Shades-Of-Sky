@@ -18,6 +18,7 @@
 |      USAGE       |                                HEX CODES                                 |
 | ---------------- | ------------------------------------------------------------------------ |
 | Background       | ![placehold](https://raw.githubusercontent.com/thebigcicca/Shades-Of-Sky/refs/heads/main/img/273552.png) `#273552`       |
+| Background Dark     | ![placehold](https://raw.githubusercontent.com/thebigcicca/Shades-Of-Sky/refs/heads/main/img/1d2d4d.png) `#1d2d4d`       |
 | Foreground       | ![placehold](https://raw.githubusercontent.com/thebigcicca/Shades-Of-Sky/refs/heads/main/img/A599E9.png) `#A599E9`       |
 | Hover Background | ![placehold](https://raw.githubusercontent.com/thebigcicca/Shades-Of-Sky/refs/heads/main/img/4D21FC.png) `#4D21FC`       |
 | Contrast         | ![placehold](https://raw.githubusercontent.com/thebigcicca/Shades-Of-Sky/refs/heads/main/img/FAD000.png) `#FAD000`       |
