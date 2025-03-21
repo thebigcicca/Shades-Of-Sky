@@ -1,6 +1,6 @@
 # shades-of-sky 
 
-🦄 Shades of Sky offers a hand-picked selection of bold and calm shades of Sky that will transform your code into a visually stunning masterpiece. With its carefully crafted color palette, this theme brings a sense of style, elegance, and whimsy to your favorite code editor, making your coding sessions a delightful journey of creativity. 
+🦄 Shades of Sky offers a hand-picked selection of svelte and calm shades of sky, for inspired and creative developers, perfect for boosting your workflow!  Get the best of both worlds 🌍 using shades of sky, Sometimes a little color 🎨 is all you need.
 
 <div align="center"> 
 
