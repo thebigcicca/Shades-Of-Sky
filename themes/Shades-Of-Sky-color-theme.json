@@ -5,7 +5,7 @@
 	"name": "Shades of Purple",
 	"type": "dark",
 	"colors": {
-		"activityBar.background": "#1d2d4d",
+		"activityBar.background": "#222145",
 		"activityBar.border": "#1d2d4d",
 		"activityBar.dropBackground": "#222145",
 		"activityBar.foreground": "#FFFFFF",
@@ -13,7 +13,7 @@
 		"activityBarBadge.background": "#FAD000",
 		"activityBarBadge.foreground": "#1d2d4d",
 		"activityBar.activeBorder": "#6943ff62",
-		"activityBar.activeBackground": "#1d2d4d",
+		"activityBar.activeBackground": "#222145",
 
 		"debugIcon.startForeground": "#FAD000",
 		"debugIcon.continueForeground": "#FAD000",
@@ -161,16 +161,19 @@
 		"inputValidation.warningBorder": "#FAD000",
 		"inputOption.activeBackground": "#5D37F0",
 
-		"list.dropBackground": "#1d2d4d",
-		"list.activeSelectionBackground": "#1d2d4d",
+		"list.dropBackground": "#222145",
+		"list.activeSelectionBackground": "#222145",
 		"list.activeSelectionForeground": "#FFFFFF",
-		"list.focusBackground": "#1d2d4d",
+		"list.focusBackground": "#222145",
 		"list.focusForeground": "#FFFFFF",
 		"list.highlightForeground": "#FAD000",
-		"list.hoverBackground": "#1d2d4d",
+		"list.hoverBackground": "#222145",
 		"list.hoverForeground": "#CEC5FF",
 		"list.inactiveSelectionBackground": "#1d2d4d",
 		"list.inactiveSelectionForeground": "#AAA",
+
+		"tree.inactiveIndentGuidesStroke": "#FAD000",
+		"tree.indentGuidesStroke": "#FAD000",
 
 		"merge.currentHeaderBackground": "#3AD90050",
 		"merge.currentContentBackground": "#3AD90050",
@@ -263,12 +266,12 @@
 		"textPreformat.foreground": "#FAD000",
 		"textSeparator.foreground": "#1d2d4d",
 
-		"titleBar.activeBackground": "#1d2d4d",
+		"titleBar.activeBackground": "#222145",
 		"titleBar.activeForeground": "#FFFFFF",
-		"titleBar.inactiveBackground": "#1d2d4d",
+		"titleBar.inactiveBackground": "#222145",
 		"titleBar.inactiveForeground": "#A599E9",
-		"walkThrough.embeddedEditorBackground": "#1d2d4d",
-		"welcomePage.buttonBackground": "#1d2d4d",
+		"walkThrough.embeddedEditorBackground": "#222145",
+		"welcomePage.buttonBackground": "#222145",
 		"welcomePage.buttonHoverBackground": "#262650",
 		"widget.shadow": "#00000026",
 
