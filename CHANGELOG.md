@@ -36,3 +36,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - fixing activity bar background color
 - fixing background of title bar background color
 - change background of active tab background
+
+## [0.0.8]
+
+- new preview image
