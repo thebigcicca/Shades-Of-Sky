@@ -11,7 +11,7 @@
 
 </div>
 
-![shades-of-sky preview](./Shades-Of-Sky.png)
+![shades-of-sky preview](./preview.png)
 
 ## 🎨 Color palette
 
