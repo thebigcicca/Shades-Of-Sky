@@ -29,3 +29,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - change background of list.dropBackground
 - change background of activity bar
 - change background of title bar
+
+## [0.0.7] 
+
+- fixing list.dropBackground color
+- fixing activity bar background color
+- fixing background of title bar background color
+- change background of active tab background
